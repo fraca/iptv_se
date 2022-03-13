@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF: -1 tvg-chno="180" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgnorba24.png" tvg-id="tgnorba24" tvg-name="TG Norba 24" , TG Norba 24
+https://flash5.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668710" tvg-name="TGR Bolzano" , TGR Bolzano
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668710
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668651" tvg-name="TGR Friuli Venezia Giulia" , TGR Friuli Venezia Giulia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668651
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668692" tvg-name="TGR Piemonte" , TGR Piemonte
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="739016" tvg-name="TGR Trento" , TGR Trento
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668726" tvg-name="TGR Val D'Aosta" , TGR Val D'Aosta
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668726
+#EXTINF:-1,SE| SVT 1
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4846
+#EXTINF:-1,SE| SVT 1 *
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9692
+#EXTINF:-1,SE| SVT 2
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4845
+#EXTINF:-1,SE| FOX
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4851
+#EXTINF:-1,SE| TLC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4843
+#EXTINF:-1,SE| E!
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9693
+#EXTINF:-1,SE| KANAL 5
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9690
+#EXTINF:-1,SE| KANAL 9
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4849
+#EXTINF:-1,SE| TV 10
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9691
+#EXTINF:-1,SE| KANAL 11
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4850
+#EXTINF:-1,SE| KUNSKAPSKANALEN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4848
+#EXTINF:-1,SE| SVTB/SVT24
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4844
+#EXTINF:-1,SE| TV 3
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4838
+#EXTINF:-1,SE| TV4
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9697
+#EXTINF:-1,SE| TV4 FAKTA
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9696
+#EXTINF:-1,SE| VIASAT 4
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4836
+#EXTINF:-1,SE| TV6
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/9694
+#EXTINF:-1,SE| TV8
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4837
+#EXTINF:-1,SE| TV10
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4842
+#EXTINF:-1,SE| TV12
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4841
+#EXTINF:-1,SE| SF-KANALEN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4833
+#EXTINF:-1,SE| HIMLEN TV7 HDTV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55956
+#EXTINF:-1,SE| KANAL 10
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55957
+#EXTINF:-1,SE| TCM
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55951
+#EXTINF:-1,SE| TV4 GULD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55945
+#EXTINF:-1,SE| TV4 FAKTA
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55947
+#EXTINF:-1,SE| C MORE FIRST
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4857
+#EXTINF:-1,SE| C MORE LIVE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4855
+#EXTINF:-1,SE| C MORE SERIES
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4854
+#EXTINF:-1,SE| VIASAT FILM ACTION
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4834
+#EXTINF:-1,SE| VIASAT FILM FAMILY
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4832
+#EXTINF:-1,SE| VIASAT FILM PREMIERE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4826
+#EXTINF:-1,SE| VIASAT FILM SERIES
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4825
+#EXTINF:-1,SE| DISNEY JUNIOR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4831
+#EXTINF:-1,SE| NICK JR.
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4858
+#EXTINF:-1,SE| DISCOVERY CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4853
+#EXTINF:-1,SE| NATIONAL GEOGRAPHIC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4847
+#EXTINF:-1,SE| TRAVEL CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55971
+#EXTINF:-1,SE| VIASAT EXPLORE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4835
+#EXTINF:-1,SE| VIASAT HISTORY
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4829
+#EXTINF:-1,SE| VIASAT HOCKEY
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4827
+#EXTINF:-1,SE| BOOMERANG
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55964
+#EXTINF:-1,SE| COMEDY CENTRAL (S)
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55979
+#EXTINF:-1,SE| DISCOVERY WORLD HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55969
+#EXTINF:-1,SE| DISNEY CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55961
+#EXTINF:-1,SE| DISNEY XD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55962
+#EXTINF:-1,SE| H2 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55974
+#EXTINF:-1,SE| HISTORY HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55973
+#EXTINF:-1,SE| INVESTIGATION DISCOVERY
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55972
+#EXTINF:-1,SE| MTV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55958
+#EXTINF:-1,SE| MTV MUSIC
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55959
+#EXTINF:-1,SE| NICKELODEON
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55960
+#EXTINF:-1,SE| SJUAN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55950
+#EXTINF:-1,SE| TV3 SVERGIE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55942
+#EXTINF:-1,SE| VIASAT FILM COMEDY
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55993
+#EXTINF:-1,SE| VIASAT FILM HITS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55994
+#EXTINF:-1,SE| VIASAT FILM PREMIERE HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55995
+#EXTINF:-1,SE| VIASAT NATURE
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55997
+#EXTINF:-1,SE| TV2 SPORT PREMIUM
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4840
+#EXTINF:-1,SE| TV3 SPORTSKANALEN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4839
+#EXTINF:-1,SE| VIASAT SPORT PREMIUM
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/56000
+#EXTINF:-1,SE| VIASAT SPORT PREMIUM 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/56001
+#EXTINF:-1,SE| VIASAT FOOTBALL FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55992
+#EXTINF:-1,SE| VIASAT GOLF
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/4830
+#EXTINF:-1,SE| VIASAT MOTOR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55996
+#EXTINF:-1,SE| C MORE SPORT HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55987
+#EXTINF:-1,SE| C MORE FOTBOLL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55980
+#EXTINF:-1,SE| C MORE GOLF
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55981
+#EXTINF:-1,SE| C MORE HITS HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55976
+#EXTINF:-1,SE| C MORE HOCKEY HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55982
+#EXTINF:-1,SE| C MORE LIVE 2
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55984
+#EXTINF:-1,SE| C MORE LIVE 3 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55985
+#EXTINF:-1,SE| C MORE LIVE 4 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55986
+#EXTINF:-1,SE| C MORE STARS HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55977
+#EXTINF:-1,SE| VIASAT SPORT PREMIUM FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/55999
